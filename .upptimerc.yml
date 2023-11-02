@@ -9,30 +9,30 @@ sites:
   - name: Winden
     url: https://winden.app/
   - name: Magic Wormhole Mailbox
-    icon: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/wormhole-icon.png
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png
     url: https://mailbox.mw.leastauthority.com/
   - name: Magic Wormhole Relay
-    icon: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/wormhole-icon.png
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png
     url: https://relay.mw.leastauthority.com/
   - name: HRO Cloud - storage001
-    icon: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/tahoelafs-icon.png
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage001.deerfield.leastauthority.com
     port: 8898
   - name: HRO Cloud - storage002
-    icon: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/tahoelafs-icon.png
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage002.deerfield.leastauthority.com
     port: 8898
   - name: HRO Cloud - storage003
-    icon: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/tahoelafs-icon.png
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage003.deerfield.leastauthority.com
     port: 8898
 
 status-website:
   baseUrl: /$REPO
-  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/upptime-icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This site monitor public resources of LA
