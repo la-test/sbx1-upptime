@@ -9,18 +9,23 @@ sites:
   - name: Winden
     url: https://winden.app/
   - name: Magic Wormhole Mailbox
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/main/assets/wormhole-icon.svg
     url: https://mailbox.mw.leastauthority.com/
   - name: Magic Wormhole Relay
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/main/assets/wormhole-icon.svg
     url: https://relay.mw.leastauthority.com/
   - name: HRO Cloud - storage001
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/main/assets/tahoelafs-icon.svg
     check: "tcp-ping"
     url: storage001.deerfield.leastauthority.com
     port: 8898
   - name: HRO Cloud - storage002
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/main/assets/tahoelafs-icon.svg
     check: "tcp-ping"
     url: storage002.deerfield.leastauthority.com
     port: 8898
   - name: HRO Cloud - storage003
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/main/assets/tahoelafs-icon.svg
     check: "tcp-ping"
     url: storage003.deerfield.leastauthority.com
     port: 8898
