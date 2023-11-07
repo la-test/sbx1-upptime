@@ -31,8 +31,7 @@ sites:
     port: 8898
 
 status-website:
-  cname: status.latfa.net
-  baseUrl: /sbx1-upptime
+  baseUrl: https://status.latfa.net/sbx1-upptime
   logoUrl: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/upptime-icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
