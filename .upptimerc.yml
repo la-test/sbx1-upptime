@@ -8,10 +8,8 @@ sites:
     url: https://private.storage/
   - name: Private Storage - payment API
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    url: https://payments.private.storage/v1/redeem
-    method: POST
-    expectedStatusCodes:
-      - 415
+    url: payments.private.storage
+    port: 443
   - name: Winden
     url: https://winden.app/
   - name: Magic Wormhole Mailbox
