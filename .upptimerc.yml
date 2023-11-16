@@ -9,6 +9,7 @@ sites:
   - name: Private Storage - payment API
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
     url: payments.private.storage
+    check: "tcp-ping"
     port: 443
   - name: Winden
     url: https://winden.app/
