@@ -41,11 +41,11 @@
     "icon": "https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-payment-api",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.41%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 433,
     "timeDay": 433,
     "timeWeek": 433,
@@ -132,9 +132,9 @@
     "url": "storage002.deerfield.leastauthority.com",
     "icon": "https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png",
     "slug": "hro-cloud-storage002",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +143,9 @@
     "timeWeek": 131,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "HRO Cloud - storage003",
