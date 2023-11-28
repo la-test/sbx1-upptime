@@ -153,19 +153,19 @@
     "url": "storage003.deerfield.leastauthority.com",
     "icon": "https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png",
     "slug": "hro-cloud-storage003",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 118,
-    "timeDay": 168,
-    "timeWeek": 117,
+    "timeDay": 140,
+    "timeWeek": 116,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-11-28": 0,
+      "2023-11-28": 17,
       "2023-11-21": 11
     }
   }
