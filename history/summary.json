@@ -60,9 +60,9 @@
     "url": "https://winden.app/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.app.ico",
     "slug": "winden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 243,
     "timeMonth": 240,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Magic Wormhole Mailbox",
