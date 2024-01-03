@@ -60,19 +60,19 @@
     "url": "https://winden.app/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.app.ico",
     "slug": "winden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 118,
-    "timeWeek": 243,
-    "timeMonth": 240,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 243,
+    "timeDay": 131,
+    "timeWeek": 230,
+    "timeMonth": 237,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 26
     }
   },
   {
