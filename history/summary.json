@@ -22,9 +22,9 @@
     "url": "https://private.storage/",
     "icon": "https://icons.duckduckgo.com/ip3/private.storage.ico",
     "slug": "private-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 719,
     "timeMonth": 615,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   },
   {
     "name": "Private Storage - payment API",
