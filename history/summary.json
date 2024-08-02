@@ -125,9 +125,9 @@
     "url": "storage001.deerfield.leastauthority.com",
     "icon": "https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png",
     "slug": "hro-cloud-storage001",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.96%",
@@ -137,6 +137,7 @@
     "timeMonth": 112,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2024-08-02": 0,
       "2024-07-30": 93,
       "2024-07-29": 68
     }
