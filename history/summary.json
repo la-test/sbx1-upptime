@@ -90,9 +90,9 @@
     "url": "https://mailbox.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-mailbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,16 +101,18 @@
     "timeWeek": 502,
     "timeMonth": 567,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Magic Wormhole Relay",
     "url": "https://relay.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,7 +121,9 @@
     "timeWeek": 517,
     "timeMonth": 541,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "HRO Cloud - storage001",
