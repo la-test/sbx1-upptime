@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.de.ico",
     "slug": "least-authority-de-redirect",
     "status": "degraded",
-    "uptime": "9.29%",
-    "uptimeDay": "9.29%",
-    "uptimeWeek": "9.29%",
-    "uptimeMonth": "9.29%",
-    "uptimeYear": "9.29%",
+    "uptime": "3.43%",
+    "uptimeDay": "3.43%",
+    "uptimeWeek": "3.43%",
+    "uptimeMonth": "3.43%",
+    "uptimeYear": "3.43%",
     "time": 634,
     "timeDay": 634,
     "timeWeek": 634,
     "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 1
     }
   },
   {
