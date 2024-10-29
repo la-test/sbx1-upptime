@@ -2,45 +2,164 @@ owner: la-test
 repo: sbx1-upptime
 
 sites:
-  - name: Least Authority
-    url: https://www.leastauthority.com/
-  - name: Private Storage
-    url: https://private.storage/
-  - name: Private Storage - payment API
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    url: payments.private.storage
-    check: "tcp-ping"
-    port: 443
-  - name: Winden
+  - name: Least Authority - website
+    url: https://leastauthority.com/
+    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
+    maxRedirects: 0
+
+  - name: Least Authority - redirect
+    url: http://leastauthority.com/
+    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
+    maxRedirects: 1
+
+  - name: Least Authority - de redirect
+    url: http://leastauthority.de/
+    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
+    maxRedirects: 1
+
+  - name: Winden - website
     url: https://winden.app/
-  - name: Magic Wormhole Mailbox
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 0
+
+  - name: Winden - redirect
+    url: http://winden.app/
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
+
+  - name: Winden - it redirect
+    url: http://winden.it/
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
+
+  - name: Winden - me redirect
+    url: http://winden.me/
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
+
+  - name: Winden - tech redirect
+    url: http://winden.tech/
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
+
+  - name: Magic Wormhole - mailbox
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png
     url: https://mailbox.mw.leastauthority.com/
-  - name: Magic Wormhole Relay
+
+  - name: Magic Wormhole - relay
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png
     url: https://relay.mw.leastauthority.com/
+
+  - name: HRO Cloud - payment API
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
+    check: "tcp-ping"
+    url: payments.deerfield.leastauthority.com
+    port: 443
+
   - name: HRO Cloud - storage001
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage001.deerfield.leastauthority.com
     port: 8898
+
   - name: HRO Cloud - storage002
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage002.deerfield.leastauthority.com
     port: 8898
+
   - name: HRO Cloud - storage003
     icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage003.deerfield.leastauthority.com
     port: 8898
 
+  - name: Private Storage - website
+    url: https://private.storage/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 0
+
+  - name: Private Storage - redirect
+    url: http://private.storage/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+
+  - name: Private Storage - app redirect
+    url: http://privatestorage.app/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    verbose: true
+
+  - name: Private Storage - dev redirect
+    url: http://privatestorage.dev/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    verbose: true
+
+  - name: Private Storage - io redirect
+    url: http://privatestorage.io/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 2
+
+  - name: Private Storage - online redirect
+    url: http://privatestorage.online/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+
+  - name: Private Storage - org redirect
+    url: http://privatestorage.org/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    verbose: true
+
+  - name: Private Storage - tech redirect
+    url: http://privatestorage.tech/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    verbose: true
+
+  - name: Private Storage - payment API
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: payments.private.storage
+    port: 443
+
+  - name: Private Storage - storage001
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage001.private.storage
+    port: 8898
+
+  - name: Private Storage - storage002
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage002.private.storage
+    port: 8898
+
+  - name: Private Storage - storage003
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage003.private.storage
+    port: 8898
+
+  - name: Private Storage - storage004
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage004.private.storage
+    port: 8898
+
+  - name: Private Storage - storage005
+    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage005.private.storage
+    port: 8898
+
 status-website:
   baseUrl: /sbx1-upptime
   logoUrl: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/upptime-icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This site monitor public resources of LA
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by [GitHub](https://github.com/la-test/sbx1-upptime)."
+  introMessage: This site monitors the availability of the products and services provided to the end users of [Least Authority](https://leastauthority.com/).
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
