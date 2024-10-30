@@ -12,11 +12,6 @@ sites:
     __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
     maxRedirects: 1
 
-  - name: Least Authority - de redirect
-    url: http://leastauthority.de/
-    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
-    maxRedirects: 1
-
   - name: Winden - website
     url: https://winden.app/
     __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
@@ -41,38 +36,6 @@ sites:
     url: http://winden.tech/
     __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
     maxRedirects: 1
-
-  - name: Magic Wormhole - mailbox
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png
-    url: https://mailbox.mw.leastauthority.com/
-
-  - name: Magic Wormhole - relay
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/wormhole-icon.png
-    url: https://relay.mw.leastauthority.com/
-
-  - name: HRO Cloud - payment API
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: payments.deerfield.leastauthority.com
-    port: 443
-
-  - name: HRO Cloud - storage001
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: storage001.deerfield.leastauthority.com
-    port: 8898
-
-  - name: HRO Cloud - storage002
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: storage002.deerfield.leastauthority.com
-    port: 8898
-
-  - name: HRO Cloud - storage003
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: storage003.deerfield.leastauthority.com
-    port: 8898
 
   - name: Private Storage - website
     url: https://private.storage/
@@ -117,42 +80,6 @@ sites:
     __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
     maxRedirects: 1
     verbose: true
-
-  - name: Private Storage - payment API
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    check: "tcp-ping"
-    url: payments.private.storage
-    port: 443
-
-  - name: Private Storage - storage001
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    check: "tcp-ping"
-    url: storage001.private.storage
-    port: 8898
-
-  - name: Private Storage - storage002
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    check: "tcp-ping"
-    url: storage002.private.storage
-    port: 8898
-
-  - name: Private Storage - storage003
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    check: "tcp-ping"
-    url: storage003.private.storage
-    port: 8898
-
-  - name: Private Storage - storage004
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    check: "tcp-ping"
-    url: storage004.private.storage
-    port: 8898
-
-  - name: Private Storage - storage005
-    icon: https://raw.githubusercontent.com/la-test/sbx1-upptime/master/assets/private-storage-icon.svg
-    check: "tcp-ping"
-    url: storage005.private.storage
-    port: 8898
 
 status-website:
   baseUrl: /sbx1-upptime
