@@ -180,15 +180,15 @@
     "url": "http://privatestorage.app/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.app.ico",
     "slug": "private-storage-app-redirect",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "93.40%",
+    "status": "degraded",
+    "uptime": "95.62%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "93.93%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.62%",
     "time": 281,
-    "timeDay": 194,
-    "timeWeek": 284,
+    "timeDay": 192,
+    "timeWeek": 286,
     "timeMonth": 273,
     "timeYear": 281,
     "dailyMinutesDown": {
@@ -222,7 +222,7 @@
       "2024-11-06": 174,
       "2024-11-05": 52,
       "2024-11-04": 161,
-      "2024-11-03": 114
+      "2024-11-03": 95
     }
   },
   {
@@ -230,15 +230,15 @@
     "url": "http://privatestorage.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.dev.ico",
     "slug": "private-storage-dev-redirect",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "93.40%",
+    "status": "degraded",
+    "uptime": "95.62%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "93.93%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.62%",
     "time": 285,
-    "timeDay": 339,
-    "timeWeek": 272,
+    "timeDay": 352,
+    "timeWeek": 275,
     "timeMonth": 286,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
       "2024-11-06": 174,
       "2024-11-05": 52,
       "2024-11-04": 161,
-      "2024-11-03": 114
+      "2024-11-03": 95
     }
   },
   {
@@ -316,15 +316,15 @@
     "url": "http://privatestorage.org/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.org.ico",
     "slug": "private-storage-org-redirect",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.58%",
+    "status": "degraded",
+    "uptime": "95.62%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.62%",
     "time": 323,
     "timeDay": 313,
-    "timeWeek": 310,
+    "timeWeek": 312,
     "timeMonth": 320,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -358,7 +358,7 @@
       "2024-11-06": 174,
       "2024-11-05": 52,
       "2024-11-04": 161,
-      "2024-11-03": 114
+      "2024-11-03": 95
     }
   },
   {
@@ -366,16 +366,16 @@
     "url": "http://privatestorage.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.tech.ico",
     "slug": "private-storage-tech-redirect",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "93.41%",
+    "status": "degraded",
+    "uptime": "95.62%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "93.93%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "95.62%",
     "time": 286,
-    "timeDay": 194,
-    "timeWeek": 334,
-    "timeMonth": 287,
+    "timeDay": 198,
+    "timeWeek": 338,
+    "timeMonth": 288,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2024-12-04": 52,
@@ -408,7 +408,7 @@
       "2024-11-06": 174,
       "2024-11-05": 52,
       "2024-11-04": 161,
-      "2024-11-03": 114
+      "2024-11-03": 95
     }
   }
 ]
