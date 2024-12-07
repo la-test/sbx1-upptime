@@ -122,9 +122,9 @@
     "url": "http://winden.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.tech.ico",
     "slug": "winden-tech-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.78%",
@@ -134,6 +134,7 @@
     "timeMonth": 154,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2024-12-07": 0,
       "2024-11-26": 18,
       "2024-11-12": 60,
       "2024-10-31": 45
@@ -181,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.app.ico",
     "slug": "private-storage-app-redirect",
     "status": "up",
-    "uptime": "95.99%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.99%",
+    "uptime": "95.98%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.98%",
     "time": 279,
     "timeDay": 230,
-    "timeWeek": 275,
-    "timeMonth": 274,
+    "timeWeek": 260,
+    "timeMonth": 273,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-12-07": 28,
+      "2024-12-07": 18,
       "2024-12-06": 78,
       "2024-12-05": 80,
       "2024-12-04": 52,
@@ -224,7 +225,7 @@
       "2024-11-07": 76,
       "2024-11-06": 174,
       "2024-11-05": 52,
-      "2024-11-04": 16
+      "2024-11-04": 33
     }
   },
   {
@@ -233,18 +234,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.dev.ico",
     "slug": "private-storage-dev-redirect",
     "status": "up",
-    "uptime": "95.99%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.99%",
+    "uptime": "95.98%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.98%",
     "time": 288,
     "timeDay": 367,
     "timeWeek": 300,
-    "timeMonth": 283,
+    "timeMonth": 284,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-12-07": 28,
+      "2024-12-07": 18,
       "2024-12-06": 78,
       "2024-12-05": 80,
       "2024-12-04": 52,
@@ -276,7 +277,7 @@
       "2024-11-07": 76,
       "2024-11-06": 174,
       "2024-11-05": 52,
-      "2024-11-04": 16
+      "2024-11-04": 33
     }
   },
   {
@@ -321,18 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.org.ico",
     "slug": "private-storage-org-redirect",
     "status": "up",
-    "uptime": "95.99%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.99%",
+    "uptime": "95.98%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.98%",
     "time": 323,
     "timeDay": 342,
-    "timeWeek": 310,
+    "timeWeek": 308,
     "timeMonth": 309,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-12-07": 28,
+      "2024-12-07": 18,
       "2024-12-06": 78,
       "2024-12-05": 80,
       "2024-12-04": 52,
@@ -364,7 +365,7 @@
       "2024-11-07": 76,
       "2024-11-06": 174,
       "2024-11-05": 52,
-      "2024-11-04": 16
+      "2024-11-04": 33
     }
   },
   {
@@ -373,18 +374,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.tech.ico",
     "slug": "private-storage-tech-redirect",
     "status": "up",
-    "uptime": "95.99%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.99%",
+    "uptime": "95.98%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.98%",
     "time": 286,
     "timeDay": 401,
     "timeWeek": 281,
-    "timeMonth": 289,
+    "timeMonth": 290,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-12-07": 28,
+      "2024-12-07": 18,
       "2024-12-06": 78,
       "2024-12-05": 80,
       "2024-12-04": 52,
@@ -416,7 +417,7 @@
       "2024-11-07": 76,
       "2024-11-06": 174,
       "2024-11-05": 52,
-      "2024-11-04": 16
+      "2024-11-04": 33
     }
   }
 ]
