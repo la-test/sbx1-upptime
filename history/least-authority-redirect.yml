@@ -1,7 +1,7 @@
 url: http://leastauthority.com/
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2024-12-11T23:16:48.574Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2024-12-12T21:44:18.244Z
 startTime: 2024-10-29T10:09:50.573Z
 generator: Upptime <https://github.com/upptime/upptime>
