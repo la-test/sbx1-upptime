@@ -4,10 +4,10 @@
     "url": "https://leastauthority.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.com.ico",
     "slug": "least-authority-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 911,
@@ -15,16 +15,18 @@
     "timeWeek": 807,
     "timeMonth": 880,
     "timeYear": 911,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 2
+    }
   },
   {
     "name": "Least Authority - redirect",
     "url": "http://leastauthority.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.com.ico",
     "slug": "least-authority-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 551,
     "timeMonth": 594,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "Winden - website",
@@ -187,7 +191,7 @@
     "uptimeMonth": "94.41%",
     "uptimeYear": "96.15%",
     "time": 281,
-    "timeDay": 285,
+    "timeDay": 295,
     "timeWeek": 290,
     "timeMonth": 276,
     "timeYear": 281,
@@ -236,7 +240,7 @@
     "uptimeMonth": "94.41%",
     "uptimeYear": "96.15%",
     "time": 288,
-    "timeDay": 308,
+    "timeDay": 320,
     "timeWeek": 293,
     "timeMonth": 282,
     "timeYear": 288,
@@ -321,7 +325,7 @@
     "uptimeMonth": "94.41%",
     "uptimeYear": "96.15%",
     "time": 318,
-    "timeDay": 261,
+    "timeDay": 260,
     "timeWeek": 291,
     "timeMonth": 308,
     "timeYear": 318,
@@ -370,7 +374,7 @@
     "uptimeMonth": "94.41%",
     "uptimeYear": "96.15%",
     "time": 282,
-    "timeDay": 202,
+    "timeDay": 194,
     "timeWeek": 267,
     "timeMonth": 295,
     "timeYear": 282,
