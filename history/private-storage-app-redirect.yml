@@ -1,7 +1,7 @@
 url: http://privatestorage.app/
-status: up
-code: 200
-responseTime: 223
-lastUpdated: 2024-12-12T19:39:57.396Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2024-12-12T19:55:55.138Z
 startTime: 2024-10-29T10:10:02.655Z
 generator: Upptime <https://github.com/upptime/upptime>
