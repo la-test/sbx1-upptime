@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 893,
-    "timeDay": 836,
-    "timeWeek": 877,
-    "timeMonth": 853,
-    "timeYear": 893,
+    "time": 890,
+    "timeDay": 726,
+    "timeWeek": 822,
+    "timeMonth": 841,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2024-12-12": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 603,
-    "timeDay": 558,
-    "timeWeek": 585,
-    "timeMonth": 582,
-    "timeYear": 603,
+    "time": 600,
+    "timeDay": 425,
+    "timeWeek": 545,
+    "timeMonth": 572,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2024-12-12": 34
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 303,
-    "timeDay": 261,
-    "timeWeek": 341,
-    "timeMonth": 306,
-    "timeYear": 303,
+    "time": 300,
+    "timeDay": 122,
+    "timeWeek": 247,
+    "timeMonth": 297,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2024-11-12": 60
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 123,
-    "timeDay": 63,
-    "timeWeek": 116,
-    "timeMonth": 113,
-    "timeYear": 123,
+    "time": 122,
+    "timeDay": 59,
+    "timeWeek": 90,
+    "timeMonth": 107,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2024-11-12": 60
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 251,
-    "timeDay": 152,
-    "timeWeek": 251,
-    "timeMonth": 248,
+    "timeDay": 219,
+    "timeWeek": 224,
+    "timeMonth": 244,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2024-11-12": 60,
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 244,
-    "timeDay": 288,
-    "timeWeek": 241,
-    "timeMonth": 234,
-    "timeYear": 244,
+    "time": 245,
+    "timeDay": 267,
+    "timeWeek": 210,
+    "timeMonth": 236,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2024-11-12": 60,
       "2024-10-31": 45
@@ -133,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 158,
-    "timeDay": 162,
-    "timeWeek": 186,
-    "timeMonth": 162,
+    "timeDay": 138,
+    "timeWeek": 169,
+    "timeMonth": 160,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-11-26": 18,
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 663,
-    "timeWeek": 1031,
-    "timeMonth": 801,
-    "timeYear": 764,
+    "time": 762,
+    "timeDay": 661,
+    "timeWeek": 857,
+    "timeMonth": 763,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 190,
-    "timeWeek": 305,
-    "timeMonth": 210,
-    "timeYear": 221,
+    "time": 220,
+    "timeDay": 189,
+    "timeWeek": 295,
+    "timeMonth": 213,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -186,17 +186,17 @@
     "slug": "private-storage-app-redirect",
     "status": "up",
     "uptime": "97.04%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "97.04%",
     "time": 277,
-    "timeDay": 202,
-    "timeWeek": 236,
-    "timeMonth": 274,
+    "timeDay": 189,
+    "timeWeek": 233,
+    "timeMonth": 273,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-12-26": 109,
+      "2024-12-26": 101,
       "2024-12-25": 101,
       "2024-12-24": 78,
       "2024-12-23": 65,
@@ -223,7 +223,8 @@
       "2024-12-02": 125,
       "2024-12-01": 91,
       "2024-11-30": 82,
-      "2024-11-29": 68
+      "2024-11-29": 68,
+      "2024-11-28": 16
     }
   },
   {
@@ -233,17 +234,17 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "97.04%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "97.04%",
     "time": 305,
-    "timeDay": 469,
-    "timeWeek": 374,
-    "timeMonth": 322,
+    "timeDay": 413,
+    "timeWeek": 372,
+    "timeMonth": 321,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-12-26": 109,
+      "2024-12-26": 101,
       "2024-12-25": 101,
       "2024-12-24": 78,
       "2024-12-23": 65,
@@ -270,7 +271,8 @@
       "2024-12-02": 125,
       "2024-12-01": 91,
       "2024-11-30": 82,
-      "2024-11-29": 68
+      "2024-11-29": 68,
+      "2024-11-28": 16
     }
   },
   {
@@ -285,9 +287,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 289,
-    "timeWeek": 311,
-    "timeMonth": 390,
+    "timeDay": 344,
+    "timeWeek": 318,
+    "timeMonth": 392,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -302,11 +304,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 324,
-    "timeWeek": 384,
-    "timeMonth": 409,
-    "timeYear": 442,
+    "time": 439,
+    "timeDay": 272,
+    "timeWeek": 351,
+    "timeMonth": 401,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -316,17 +318,17 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "97.04%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "97.04%",
-    "time": 324,
-    "timeDay": 282,
-    "timeWeek": 345,
+    "time": 323,
+    "timeDay": 278,
+    "timeWeek": 332,
     "timeMonth": 321,
-    "timeYear": 324,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-12-26": 109,
+      "2024-12-26": 101,
       "2024-12-25": 101,
       "2024-12-24": 78,
       "2024-12-23": 65,
@@ -353,7 +355,8 @@
       "2024-12-02": 125,
       "2024-12-01": 91,
       "2024-11-30": 82,
-      "2024-11-29": 68
+      "2024-11-29": 68,
+      "2024-11-28": 16
     }
   },
   {
@@ -363,17 +366,17 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "97.04%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "97.04%",
-    "time": 290,
-    "timeDay": 276,
-    "timeWeek": 291,
-    "timeMonth": 304,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 268,
+    "timeWeek": 288,
+    "timeMonth": 303,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-12-26": 109,
+      "2024-12-26": 101,
       "2024-12-25": 101,
       "2024-12-24": 78,
       "2024-12-23": 65,
@@ -400,7 +403,8 @@
       "2024-12-02": 126,
       "2024-12-01": 91,
       "2024-11-30": 82,
-      "2024-11-29": 68
+      "2024-11-29": 68,
+      "2024-11-28": 16
     }
   }
 ]
