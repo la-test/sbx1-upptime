@@ -1,7 +1,7 @@
 url: http://winden.it/
-status: degraded
-code: 502
-responseTime: 1189
-lastUpdated: 2025-01-02T17:59:35.424Z
+status: up
+code: 200
+responseTime: 239
+lastUpdated: 2025-01-02T18:28:30.345Z
 startTime: 2024-10-29T10:09:55.676Z
 generator: Upptime <https://github.com/upptime/upptime>
