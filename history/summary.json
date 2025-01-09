@@ -187,9 +187,9 @@
     "slug": "private-storage-app-redirect",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "97.70%",
     "time": 282,
     "timeDay": 342,
@@ -197,7 +197,7 @@
     "timeMonth": 288,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-01-08": 91,
+      "2025-01-08": 82,
       "2025-01-07": 22,
       "2025-01-06": 43,
       "2025-01-05": 52,
@@ -227,7 +227,7 @@
       "2024-12-11": 61,
       "2024-12-10": 169,
       "2024-12-09": 78,
-      "2024-12-08": 22
+      "2024-12-08": 37
     }
   },
   {
@@ -237,9 +237,9 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "97.70%",
     "time": 304,
     "timeDay": 377,
@@ -247,7 +247,7 @@
     "timeMonth": 321,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-01-08": 91,
+      "2025-01-08": 82,
       "2025-01-07": 22,
       "2025-01-06": 43,
       "2025-01-05": 52,
@@ -277,7 +277,7 @@
       "2024-12-11": 61,
       "2024-12-10": 169,
       "2024-12-09": 78,
-      "2024-12-08": 22
+      "2024-12-08": 37
     }
   },
   {
@@ -323,9 +323,9 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "97.70%",
     "time": 321,
     "timeDay": 305,
@@ -333,7 +333,7 @@
     "timeMonth": 319,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-01-08": 91,
+      "2025-01-08": 82,
       "2025-01-07": 22,
       "2025-01-06": 43,
       "2025-01-05": 52,
@@ -363,7 +363,7 @@
       "2024-12-11": 61,
       "2024-12-10": 169,
       "2024-12-09": 78,
-      "2024-12-08": 22
+      "2024-12-08": 37
     }
   },
   {
@@ -373,9 +373,9 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "97.70%",
     "time": 287,
     "timeDay": 257,
@@ -383,7 +383,7 @@
     "timeMonth": 290,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-01-08": 91,
+      "2025-01-08": 82,
       "2025-01-07": 22,
       "2025-01-06": 43,
       "2025-01-05": 52,
@@ -413,7 +413,7 @@
       "2024-12-11": 61,
       "2024-12-10": 169,
       "2024-12-09": 78,
-      "2024-12-08": 22
+      "2024-12-08": 37
     }
   }
 ]
