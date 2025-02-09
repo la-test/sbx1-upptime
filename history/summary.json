@@ -86,18 +86,19 @@
     "url": "http://winden.it/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.it.ico",
     "slug": "winden-it-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.88%",
-    "time": 261,
-    "timeDay": 327,
-    "timeWeek": 197,
-    "timeMonth": 231,
-    "timeYear": 261,
+    "time": 259,
+    "timeDay": 232,
+    "timeWeek": 191,
+    "timeMonth": 228,
+    "timeYear": 259,
     "dailyMinutesDown": {
+      "2025-02-09": 0,
       "2025-02-04": 39,
       "2025-01-02": 29,
       "2024-11-12": 60,
@@ -109,18 +110,19 @@
     "url": "http://winden.me/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.me.ico",
     "slug": "winden-me-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
-    "time": 241,
-    "timeDay": 264,
-    "timeWeek": 231,
-    "timeMonth": 228,
-    "timeYear": 241,
+    "time": 240,
+    "timeDay": 190,
+    "timeWeek": 219,
+    "timeMonth": 225,
+    "timeYear": 240,
     "dailyMinutesDown": {
+      "2025-02-09": 0,
       "2025-02-04": 39,
       "2024-11-12": 60,
       "2024-10-31": 45
@@ -191,18 +193,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.app.ico",
     "slug": "private-storage-app-redirect",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.39%",
+    "uptime": "98.38%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.38%",
     "time": 285,
     "timeDay": 242,
     "timeWeek": 339,
     "timeMonth": 307,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-02-09": 8,
       "2025-02-08": 20,
       "2025-02-07": 126,
       "2025-02-06": 21,
@@ -242,7 +243,7 @@
       "2024-12-17": 21,
       "2024-12-16": 25,
       "2024-12-15": 74,
-      "2024-12-14": 53
+      "2024-12-14": 73
     }
   },
   {
@@ -252,9 +253,9 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "98.39%",
     "time": 305,
     "timeDay": 234,
@@ -262,7 +263,6 @@
     "timeMonth": 316,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-02-09": 8,
       "2025-02-08": 20,
       "2025-02-07": 126,
       "2025-02-06": 21,
@@ -303,7 +303,7 @@
       "2024-12-17": 21,
       "2024-12-16": 25,
       "2024-12-15": 74,
-      "2024-12-14": 35
+      "2024-12-14": 53
     }
   },
   {
@@ -349,9 +349,9 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "98.39%",
     "time": 320,
     "timeDay": 320,
@@ -359,7 +359,6 @@
     "timeMonth": 314,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-02-09": 8,
       "2025-02-08": 20,
       "2025-02-07": 126,
       "2025-02-06": 21,
@@ -400,7 +399,7 @@
       "2024-12-17": 21,
       "2024-12-16": 25,
       "2024-12-15": 74,
-      "2024-12-14": 35
+      "2024-12-14": 53
     }
   },
   {
@@ -410,9 +409,9 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "98.39%",
     "time": 290,
     "timeDay": 244,
@@ -420,7 +419,6 @@
     "timeMonth": 305,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-02-09": 8,
       "2025-02-08": 20,
       "2025-02-07": 126,
       "2025-02-06": 21,
@@ -461,7 +459,7 @@
       "2024-12-17": 21,
       "2024-12-16": 25,
       "2024-12-15": 74,
-      "2024-12-14": 35
+      "2024-12-14": 53
     }
   }
 ]
