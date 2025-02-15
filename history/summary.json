@@ -89,18 +89,19 @@
     "url": "http://winden.it/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.it.ico",
     "slug": "winden-it-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.30%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.52%",
-    "time": 421,
-    "timeDay": 202,
-    "timeWeek": 1798,
-    "timeMonth": 749,
-    "timeYear": 421,
+    "time": 419,
+    "timeDay": 188,
+    "timeWeek": 1682,
+    "timeMonth": 735,
+    "timeYear": 419,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2025-02-14": 105,
       "2025-02-13": 350,
       "2025-02-09": 120,
@@ -115,18 +116,19 @@
     "url": "http://winden.me/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.me.ico",
     "slug": "winden-me-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.30%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.54%",
-    "time": 239,
-    "timeDay": 217,
-    "timeWeek": 223,
-    "timeMonth": 234,
-    "timeYear": 239,
+    "time": 238,
+    "timeDay": 150,
+    "timeWeek": 213,
+    "timeMonth": 231,
+    "timeYear": 238,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2025-02-14": 105,
       "2025-02-13": 349,
       "2025-02-09": 120,
@@ -201,9 +203,9 @@
     "slug": "private-storage-app-redirect",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "98.45%",
     "time": 286,
     "timeDay": 269,
@@ -211,7 +213,7 @@
     "timeMonth": 327,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-02-15": 70,
+      "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
       "2025-02-07": 126,
@@ -252,7 +254,7 @@
       "2024-12-17": 21,
       "2024-12-16": 25,
       "2024-12-15": 74,
-      "2024-12-14": 18
+      "2024-12-14": 35
     }
   },
   {
@@ -262,9 +264,9 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "98.45%",
     "time": 308,
     "timeDay": 470,
@@ -272,7 +274,7 @@
     "timeMonth": 358,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-02-15": 70,
+      "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
       "2025-02-07": 126,
@@ -313,7 +315,8 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 74
+      "2024-12-15": 74,
+      "2024-12-14": 18
     }
   },
   {
@@ -359,9 +362,9 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.45%",
     "time": 320,
     "timeDay": 327,
@@ -369,7 +372,7 @@
     "timeMonth": 314,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-02-15": 70,
+      "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
       "2025-02-07": 126,
@@ -410,7 +413,8 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 74
+      "2024-12-15": 74,
+      "2024-12-14": 18
     }
   },
   {
@@ -420,9 +424,9 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.45%",
     "time": 296,
     "timeDay": 1831,
@@ -430,7 +434,7 @@
     "timeMonth": 365,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-02-15": 70,
+      "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
       "2025-02-07": 126,
@@ -471,7 +475,8 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 74
+      "2024-12-15": 74,
+      "2024-12-14": 18
     }
   }
 ]
