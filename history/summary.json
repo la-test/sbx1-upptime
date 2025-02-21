@@ -89,18 +89,19 @@
     "url": "http://winden.it/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.it.ico",
     "slug": "winden-it-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.35%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "99.39%",
-    "time": 398,
-    "timeDay": 208,
-    "timeWeek": 215,
-    "timeMonth": 635,
-    "timeYear": 398,
+    "time": 396,
+    "timeDay": 193,
+    "timeWeek": 213,
+    "timeMonth": 626,
+    "timeYear": 396,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-17": 77,
       "2025-02-15": 191,
       "2025-02-14": 105,
@@ -117,18 +118,19 @@
     "url": "http://winden.me/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.me.ico",
     "slug": "winden-me-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.35%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "99.41%",
-    "time": 237,
-    "timeDay": 290,
-    "timeWeek": 217,
+    "time": 236,
+    "timeDay": 245,
+    "timeWeek": 216,
     "timeMonth": 213,
-    "timeYear": 237,
+    "timeYear": 236,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-17": 77,
       "2025-02-15": 191,
       "2025-02-14": 105,
@@ -205,9 +207,9 @@
     "slug": "private-storage-app-redirect",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "98.53%",
     "time": 287,
     "timeDay": 214,
@@ -215,7 +217,6 @@
     "timeMonth": 327,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-02-21": 9,
       "2025-02-20": 18,
       "2025-02-15": 61,
       "2025-02-10": 23,
@@ -257,7 +258,8 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 74
+      "2024-12-15": 74,
+      "2024-12-14": 18
     }
   },
   {
@@ -267,9 +269,9 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "98.53%",
     "time": 307,
     "timeDay": 215,
@@ -277,7 +279,6 @@
     "timeMonth": 336,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-02-21": 9,
       "2025-02-20": 18,
       "2025-02-15": 61,
       "2025-02-10": 23,
@@ -320,7 +321,7 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 59
+      "2024-12-15": 74
     }
   },
   {
@@ -366,9 +367,9 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "98.53%",
     "time": 320,
     "timeDay": 345,
@@ -376,7 +377,6 @@
     "timeMonth": 311,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-02-21": 9,
       "2025-02-20": 18,
       "2025-02-15": 61,
       "2025-02-10": 23,
@@ -419,7 +419,7 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 59
+      "2024-12-15": 74
     }
   },
   {
@@ -429,9 +429,9 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "98.53%",
     "time": 296,
     "timeDay": 286,
@@ -439,7 +439,6 @@
     "timeMonth": 347,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-02-21": 9,
       "2025-02-20": 18,
       "2025-02-15": 61,
       "2025-02-10": 23,
@@ -482,7 +481,7 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 59
+      "2024-12-15": 74
     }
   }
 ]
