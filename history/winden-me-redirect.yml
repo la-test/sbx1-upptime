@@ -1,7 +1,7 @@
 url: http://winden.me/
-status: up
-code: 200
-responseTime: 218
-lastUpdated: 2025-02-21T23:16:51.506Z
+status: degraded
+code: 502
+responseTime: 125
+lastUpdated: 2025-02-22T18:31:50.618Z
 startTime: 2024-10-29T10:09:56.218Z
 generator: Upptime <https://github.com/upptime/upptime>
