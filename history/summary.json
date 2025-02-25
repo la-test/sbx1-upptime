@@ -150,18 +150,19 @@
     "url": "http://winden.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.tech.ico",
     "slug": "winden-tech-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 164,
-    "timeDay": 108,
-    "timeWeek": 194,
+    "timeDay": 126,
+    "timeWeek": 188,
     "timeMonth": 155,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2025-02-04": 39,
       "2024-11-26": 18,
       "2024-11-12": 60,
@@ -211,17 +212,16 @@
     "slug": "private-storage-app-redirect",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "98.58%",
     "time": 288,
-    "timeDay": 228,
+    "timeDay": 176,
     "timeWeek": 320,
-    "timeMonth": 330,
+    "timeMonth": 332,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-02-25": 8,
       "2025-02-24": 19,
       "2025-02-22": 36,
       "2025-02-20": 18,
@@ -265,7 +265,7 @@
       "2024-12-18": 102,
       "2024-12-17": 21,
       "2024-12-16": 25,
-      "2024-12-15": 17
+      "2024-12-15": 34
     }
   },
   {
@@ -275,17 +275,16 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "98.58%",
     "time": 308,
-    "timeDay": 269,
+    "timeDay": 236,
     "timeWeek": 295,
-    "timeMonth": 336,
+    "timeMonth": 337,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-02-25": 8,
       "2025-02-24": 20,
       "2025-02-22": 36,
       "2025-02-20": 18,
@@ -329,7 +328,8 @@
       "2024-12-19": 80,
       "2024-12-18": 102,
       "2024-12-17": 21,
-      "2024-12-16": 25
+      "2024-12-16": 25,
+      "2024-12-15": 17
     }
   },
   {
@@ -375,17 +375,16 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "98.58%",
     "time": 322,
-    "timeDay": 326,
+    "timeDay": 297,
     "timeWeek": 394,
     "timeMonth": 330,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-02-25": 8,
       "2025-02-24": 20,
       "2025-02-22": 36,
       "2025-02-20": 18,
@@ -429,7 +428,8 @@
       "2024-12-19": 80,
       "2024-12-18": 102,
       "2024-12-17": 21,
-      "2024-12-16": 25
+      "2024-12-16": 25,
+      "2024-12-15": 17
     }
   },
   {
@@ -439,17 +439,16 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "98.58%",
     "time": 295,
-    "timeDay": 249,
+    "timeDay": 149,
     "timeWeek": 274,
-    "timeMonth": 347,
+    "timeMonth": 348,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-02-25": 8,
       "2025-02-24": 20,
       "2025-02-22": 36,
       "2025-02-20": 18,
@@ -493,7 +492,8 @@
       "2024-12-19": 80,
       "2024-12-18": 102,
       "2024-12-17": 21,
-      "2024-12-16": 25
+      "2024-12-16": 25,
+      "2024-12-15": 17
     }
   }
 ]
