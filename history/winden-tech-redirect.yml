@@ -1,7 +1,7 @@
 url: http://winden.tech/
-status: up
+status: degraded
 code: 200
-responseTime: 233
-lastUpdated: 2025-03-11T22:41:58.818Z
+responseTime: 355
+lastUpdated: 2025-03-11T22:49:46.158Z
 startTime: 2024-10-29T10:09:56.652Z
 generator: Upptime <https://github.com/upptime/upptime>
