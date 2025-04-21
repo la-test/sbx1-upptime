@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2025-04-21": 930,
+      "2025-04-21": 951,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.me.ico",
     "slug": "winden-me-redirect",
     "status": "degraded",
-    "uptime": "76.68%",
+    "uptime": "76.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.68%",
+    "uptimeYear": "76.67%",
     "time": 256,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-04-21": 930,
+      "2025-04-21": 951,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-04-21": 930,
+      "2025-04-21": 951,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -343,9 +343,9 @@
     "url": "http://privatestorage.app/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.app.ico",
     "slug": "private-storage-app-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.95%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "97.63%",
     "uptimeYear": "98.95%",
@@ -417,8 +417,7 @@
       "2025-01-03": 55,
       "2025-01-02": 27,
       "2025-01-01": 48,
-      "2024-12-31": 107,
-      "2024-12-30": 15
+      "2024-12-31": 107
     }
   },
   {
@@ -426,19 +425,19 @@
     "url": "http://privatestorage.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.dev.ico",
     "slug": "private-storage-dev-redirect",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "97.86%",
+    "status": "degraded",
+    "uptime": "98.67%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 317,
     "timeDay": 569,
     "timeWeek": 431,
     "timeMonth": 382,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-04-21": 20,
+      "2025-04-21": 21,
       "2025-04-19": 18,
       "2025-04-18": 21,
       "2025-04-17": 22,
@@ -501,7 +500,7 @@
       "2025-01-03": 55,
       "2025-01-02": 27,
       "2025-01-01": 48,
-      "2024-12-31": 107
+      "2024-12-31": 80
     }
   },
   {
@@ -550,19 +549,19 @@
     "url": "http://privatestorage.org/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.org.ico",
     "slug": "private-storage-org-redirect",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "97.86%",
+    "status": "degraded",
+    "uptime": "98.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 320,
     "timeDay": 390,
     "timeWeek": 344,
     "timeMonth": 316,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-04-21": 20,
+      "2025-04-21": 21,
       "2025-04-19": 18,
       "2025-04-18": 21,
       "2025-04-17": 22,
@@ -625,7 +624,7 @@
       "2025-01-03": 55,
       "2025-01-02": 27,
       "2025-01-01": 48,
-      "2024-12-31": 80
+      "2024-12-31": 55
     }
   },
   {
@@ -633,19 +632,19 @@
     "url": "http://privatestorage.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.tech.ico",
     "slug": "private-storage-tech-redirect",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "97.86%",
+    "status": "degraded",
+    "uptime": "98.96%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 294,
     "timeDay": 285,
     "timeWeek": 349,
     "timeMonth": 304,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-04-21": 20,
+      "2025-04-21": 21,
       "2025-04-19": 18,
       "2025-04-18": 21,
       "2025-04-17": 22,
@@ -708,7 +707,7 @@
       "2025-01-03": 55,
       "2025-01-02": 27,
       "2025-01-01": 48,
-      "2024-12-31": 107
+      "2024-12-31": 80
     }
   }
 ]
