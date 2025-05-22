@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2025-05-22": 910,
+      "2025-05-22": 932,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -209,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-05-22": 910,
+      "2025-05-22": 932,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -314,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-05-22": 910,
+      "2025-05-22": 932,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -436,15 +436,15 @@
     "url": "http://privatestorage.app/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.app.ico",
     "slug": "private-storage-app-redirect",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "96.09%",
+    "status": "degraded",
+    "uptime": "99.12%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "96.18%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 292,
     "timeDay": 319,
-    "timeWeek": 285,
+    "timeWeek": 282,
     "timeMonth": 337,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -510,8 +510,7 @@
       "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
-      "2025-02-07": 126,
-      "2025-02-06": 21
+      "2025-02-07": 126
     }
   },
   {
@@ -519,15 +518,15 @@
     "url": "http://privatestorage.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.dev.ico",
     "slug": "private-storage-dev-redirect",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "96.09%",
+    "status": "degraded",
+    "uptime": "98.87%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "96.18%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 316,
     "timeDay": 249,
-    "timeWeek": 324,
+    "timeWeek": 323,
     "timeMonth": 315,
     "timeYear": 316,
     "dailyMinutesDown": {
@@ -593,8 +592,7 @@
       "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
-      "2025-02-07": 126,
-      "2025-02-06": 21
+      "2025-02-07": 126
     }
   },
   {
@@ -644,19 +642,19 @@
     "url": "http://privatestorage.org/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.org.ico",
     "slug": "private-storage-org-redirect",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "96.10%",
+    "status": "degraded",
+    "uptime": "99.14%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "96.18%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.14%",
     "time": 321,
     "timeDay": 289,
     "timeWeek": 315,
     "timeMonth": 338,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-05-22": 36,
+      "2025-05-22": 37,
       "2025-05-21": 54,
       "2025-05-20": 38,
       "2025-05-19": 144,
@@ -718,7 +716,7 @@
       "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
-      "2025-02-07": 126
+      "2025-02-07": 39
     }
   },
   {
@@ -726,19 +724,19 @@
     "url": "http://privatestorage.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.tech.ico",
     "slug": "private-storage-tech-redirect",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "96.10%",
+    "status": "degraded",
+    "uptime": "99.12%",
+    "uptimeDay": "93.69%",
+    "uptimeWeek": "96.18%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 293,
     "timeDay": 237,
     "timeWeek": 260,
     "timeMonth": 286,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-05-22": 36,
+      "2025-05-22": 37,
       "2025-05-21": 54,
       "2025-05-20": 38,
       "2025-05-19": 144,
@@ -800,8 +798,7 @@
       "2025-02-15": 61,
       "2025-02-10": 23,
       "2025-02-08": 20,
-      "2025-02-07": 126,
-      "2025-02-06": 21
+      "2025-02-07": 126
     }
   }
 ]
