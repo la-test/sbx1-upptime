@@ -25,17 +25,17 @@ sites:
   - name: Winden - it redirect
     url: http://winden.it/
     __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
-    maxRedirects: 1
+    maxRedirects: 2
 
   - name: Winden - me redirect
     url: http://winden.me/
     __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
-    maxRedirects: 1
+    maxRedirects: 2
 
   - name: Winden - tech redirect
     url: http://winden.tech/
     __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
-    maxRedirects: 1
+    maxRedirects: 2
 
   - name: Private Storage - website
     url: https://private.storage/
