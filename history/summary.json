@@ -92,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.it.ico",
     "slug": "winden-it-redirect",
     "status": "up",
-    "uptime": "65.76%",
+    "uptime": "65.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.15%",
-    "uptimeYear": "65.76%",
+    "uptimeMonth": "86.56%",
+    "uptimeYear": "65.78%",
     "time": 472,
     "timeDay": 1041,
     "timeWeek": 1316,
@@ -210,11 +210,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.me.ico",
     "slug": "winden-me-redirect",
     "status": "up",
-    "uptime": "65.81%",
+    "uptime": "65.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.15%",
-    "uptimeYear": "65.81%",
+    "uptimeMonth": "86.56%",
+    "uptimeYear": "65.83%",
     "time": 359,
     "timeDay": 834,
     "timeWeek": 1211,
@@ -327,11 +327,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.tech.ico",
     "slug": "winden-tech-redirect",
     "status": "up",
-    "uptime": "65.91%",
+    "uptime": "65.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.15%",
-    "uptimeYear": "65.91%",
+    "uptimeMonth": "86.56%",
+    "uptimeYear": "65.93%",
     "time": 299,
     "timeDay": 932,
     "timeWeek": 1142,
@@ -472,10 +472,10 @@
     "url": "http://privatestorage.app/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.app.ico",
     "slug": "private-storage-app-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "94.71%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "94.70%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.26%",
     "time": 295,
@@ -541,8 +541,7 @@
       "2025-04-27": 66,
       "2025-04-24": 38,
       "2025-04-23": 17,
-      "2025-04-21": 20,
-      "2025-04-19": 18
+      "2025-04-21": 20
     }
   },
   {
@@ -550,10 +549,10 @@
     "url": "http://privatestorage.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.dev.ico",
     "slug": "private-storage-dev-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "94.71%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "94.70%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.26%",
     "time": 329,
@@ -562,7 +561,7 @@
     "timeMonth": 406,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-06-30": 90,
+      "2025-06-30": 91,
       "2025-06-29": 39,
       "2025-06-28": 109,
       "2025-06-27": 86,
@@ -619,8 +618,7 @@
       "2025-04-27": 66,
       "2025-04-24": 38,
       "2025-04-23": 17,
-      "2025-04-21": 20,
-      "2025-04-19": 18
+      "2025-04-21": 20
     }
   },
   {
@@ -671,9 +669,9 @@
     "url": "http://privatestorage.org/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.org.ico",
     "slug": "private-storage-org-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "91.00%",
+    "uptimeDay": "90.95%",
     "uptimeWeek": "94.70%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.26%",
@@ -683,7 +681,7 @@
     "timeMonth": 365,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2025-06-30": 90,
+      "2025-06-30": 91,
       "2025-06-29": 39,
       "2025-06-28": 109,
       "2025-06-27": 85,
@@ -740,8 +738,7 @@
       "2025-04-27": 66,
       "2025-04-24": 38,
       "2025-04-23": 17,
-      "2025-04-21": 20,
-      "2025-04-19": 18
+      "2025-04-21": 20
     }
   },
   {
@@ -749,10 +746,10 @@
     "url": "http://privatestorage.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.tech.ico",
     "slug": "private-storage-tech-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "94.55%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "94.54%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "99.26%",
     "time": 297,
@@ -761,7 +758,7 @@
     "timeMonth": 276,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-06-30": 90,
+      "2025-06-30": 91,
       "2025-06-29": 39,
       "2025-06-28": 109,
       "2025-06-27": 85,
@@ -817,8 +814,7 @@
       "2025-04-28": 56,
       "2025-04-27": 66,
       "2025-04-24": 38,
-      "2025-04-23": 17,
-      "2025-04-21": 20
+      "2025-04-23": 17
     }
   }
 ]
