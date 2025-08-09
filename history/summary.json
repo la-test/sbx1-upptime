@@ -92,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.it.ico",
     "slug": "winden-it-redirect",
     "status": "up",
-    "uptime": "70.57%",
+    "uptime": "70.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.57%",
+    "uptimeYear": "70.58%",
     "time": 580,
     "timeDay": 1340,
     "timeWeek": 1110,
@@ -210,11 +210,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.me.ico",
     "slug": "winden-me-redirect",
     "status": "up",
-    "uptime": "70.61%",
+    "uptime": "70.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.61%",
+    "uptimeYear": "70.62%",
     "time": 471,
     "timeDay": 1332,
     "timeWeek": 1128,
@@ -327,11 +327,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winden.tech.ico",
     "slug": "winden-tech-redirect",
     "status": "up",
-    "uptime": "70.70%",
+    "uptime": "70.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.70%",
+    "uptimeYear": "70.71%",
     "time": 414,
     "timeDay": 1173,
     "timeWeek": 992,
@@ -474,9 +474,9 @@
     "slug": "private-storage-app-redirect",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "95.63%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.17%",
     "time": 308,
     "timeDay": 296,
@@ -484,7 +484,7 @@
     "timeMonth": 508,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-08-08": 63,
+      "2025-08-08": 55,
       "2025-08-07": 25,
       "2025-08-06": 641,
       "2025-08-05": 19,
@@ -544,7 +544,7 @@
       "2025-05-23": 34,
       "2025-05-22": 59,
       "2025-05-21": 53,
-      "2025-05-20": 19
+      "2025-05-20": 38
     }
   },
   {
@@ -554,9 +554,9 @@
     "slug": "private-storage-dev-redirect",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "95.63%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.17%",
     "time": 334,
     "timeDay": 386,
@@ -564,7 +564,7 @@
     "timeMonth": 416,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-08-08": 63,
+      "2025-08-08": 55,
       "2025-08-07": 25,
       "2025-08-06": 641,
       "2025-08-05": 19,
@@ -624,7 +624,7 @@
       "2025-05-23": 34,
       "2025-05-22": 59,
       "2025-05-21": 54,
-      "2025-05-20": 19
+      "2025-05-20": 38
     }
   },
   {
@@ -678,9 +678,9 @@
     "slug": "private-storage-org-redirect",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.17%",
     "time": 340,
     "timeDay": 377,
@@ -688,7 +688,7 @@
     "timeMonth": 503,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-08-08": 63,
+      "2025-08-08": 55,
       "2025-08-07": 25,
       "2025-08-06": 641,
       "2025-08-05": 19,
@@ -748,7 +748,7 @@
       "2025-05-23": 34,
       "2025-05-22": 59,
       "2025-05-21": 54,
-      "2025-05-20": 19
+      "2025-05-20": 38
     }
   },
   {
@@ -758,9 +758,9 @@
     "slug": "private-storage-tech-redirect",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.17%",
     "time": 303,
     "timeDay": 334,
@@ -768,7 +768,7 @@
     "timeMonth": 394,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-08-08": 63,
+      "2025-08-08": 55,
       "2025-08-07": 25,
       "2025-08-06": 641,
       "2025-08-05": 19,
@@ -827,7 +827,8 @@
       "2025-05-24": 69,
       "2025-05-23": 34,
       "2025-05-22": 59,
-      "2025-05-21": 54
+      "2025-05-21": 54,
+      "2025-05-20": 19
     }
   }
 ]
